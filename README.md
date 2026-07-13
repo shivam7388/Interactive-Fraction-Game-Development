@@ -2,7 +2,7 @@
 
 A browser-based game for practicing fractions, built for the *Interactive Fraction Game Development* assignment (Cove Genius). Players shade wedges of a circular "porthole" to match a target fraction, level by level.
 
-**File:** `fraction-cove.html` — self-contained, no install or build step. Double-click to open in any modern browser (Chrome, Safari, Edge, Firefox).
+**File:** `index.html` — self-contained, no install or build step. Double-click to open in any modern browser (Chrome, Safari, Edge, Firefox).
 
 ---
 
@@ -74,6 +74,6 @@ A mute toggle (🔊/🔇) sits in the top-right of the HUD.
 
 | Assignment Deliverable | Where it is |
 |---|---|
-| Functional game | `fraction-cove.html` |
+| Functional game | `index.html` |
 | Well-commented, organized code | Inline comments in the `<script>` block of `fraction-cove.html`; logic is separated into level generation, SVG rendering, gameplay actions, audio, and UI wiring. |
 | Design document (mechanics, visuals, UX) | This README. |
